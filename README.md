@@ -6,17 +6,16 @@ this task is using google drive api for
 -   and to edit document 
 
 ```bash
-Define your credentials
 CLIENT_ID = ''
 CLIENT_SECRET = ''
 REFRESH_TOKEN = ''
 ```
 to do this first go to 
-```bash https://consol.cloud.google.com ```
+```https://consol.cloud.google.com ```
 after that create new project and create cradentionals using oauth2.0 
 next you will get client id and client secret of your project so using that you can get refresh token
 
-go to this link ```bash https://developers.google.com/oauthplayground ```
+go to this link ```https://developers.google.com/oauthplayground ```
 and add your client id and client secret you can get refresh token
 
 
